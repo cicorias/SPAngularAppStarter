@@ -5,10 +5,10 @@
     <ProjectItemFile Source="css\app.css" Target="App\css\" Type="ElementFile" />
     <ProjectItemFile Source="css\app.min.css" Target="App\css\" Type="ElementFile" />
     <ProjectItemFile Source="js\app.js" Target="App\js\" Type="ElementFile" />
-    <ProjectItemFile Source="js\controllers.js" Target="App\js\" Type="ElementFile" />
-    <ProjectItemFile Source="js\directives.js" Target="App\js\" Type="ElementFile" />
-    <ProjectItemFile Source="js\filters.js" Target="App\js\" Type="ElementFile" />
-    <ProjectItemFile Source="js\services.js" Target="App\js\" Type="ElementFile" />
+    <ProjectItemFile Source="js\controllers\controllers.js" Target="App\js\controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="js\directives\directives.js" Target="App\js\directives\" Type="ElementFile" />
+    <ProjectItemFile Source="js\filters\filters.js" Target="App\js\filters\" Type="ElementFile" />
+    <ProjectItemFile Source="js\services\services.js" Target="App\js\services\" Type="ElementFile" />
     <ProjectItemFile Source="partials\partial1.html" Target="App\partials\" Type="ElementFile" />
     <ProjectItemFile Source="partials\partial2.html" Target="App\partials\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\angular\angular-1.3.0-beta.13\angular-animate.js" Target="App\vendor\angular\angular-1.3.0-beta.13\" Type="ElementFile" />

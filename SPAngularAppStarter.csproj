@@ -68,10 +68,10 @@
     <Content Include="App\Elements.xml" />
     <Content Include="App\index.html" />
     <Content Include="App\js\app.js" />
-    <Content Include="App\js\controllers.js" />
-    <Content Include="App\js\directives.js" />
-    <Content Include="App\js\filters.js" />
-    <Content Include="App\js\services.js" />
+    <Content Include="App\js\controllers\controllers.js" />
+    <Content Include="App\js\directives\directives.js" />
+    <Content Include="App\js\filters\filters.js" />
+    <Content Include="App\js\services\services.js" />
     <Content Include="App\partials\partial1.html" />
     <Content Include="App\partials\partial2.html" />
     <Content Include="App\vendor\angular\angular-1.3.0-beta.13\angular-animate.js" />
