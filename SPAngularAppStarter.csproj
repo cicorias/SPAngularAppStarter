@@ -43,7 +43,6 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="App\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{861a878e-014c-488f-ad84-1f679476d800}</SharePointProjectItemId>
     </None>
@@ -61,7 +60,6 @@
     <None Include="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.eot" />
     <None Include="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.ttf" />
     <None Include="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.woff" />
-    <None Include="packages.config" />
     <None Include="SP\Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{9ab49a7a-7f37-4107-b0c9-c750212f59f0}</SharePointProjectItemId>
     </None>
