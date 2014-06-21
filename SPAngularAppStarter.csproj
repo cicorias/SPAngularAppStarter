@@ -127,16 +127,10 @@
     <Content Include="SP\Pages\Elements.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SP\Scripts\jquery-1.9.1.min.map" />
     <None Include="SP\Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{6d0f10e4-dc6c-4145-947d-cde59e251ed0}</SharePointProjectItemId>
     </None>
     <Content Include="SP\Scripts\Elements.xml" />
-    <Content Include="SP\Scripts\App.js" />
-    <Content Include="SP\Scripts\jquery-1.9.1.intellisense.js" />
-    <Content Include="SP\Scripts\jquery-1.9.1.js" />
-    <Content Include="SP\Scripts\jquery-1.9.1.min.js" />
-    <Content Include="SP\Scripts\_references.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SP\Content\SharePointProjectItem.spdata">
