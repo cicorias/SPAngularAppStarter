@@ -43,18 +43,6 @@
     <ProjectItemFile Source="vendor\angular\angular-1.3.0-beta.13\angular.min.js.map" Target="App\vendor\angular\angular-1.3.0-beta.13\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\angular\angular-1.3.0-beta.13\version.txt" Target="App\vendor\angular\angular-1.3.0-beta.13\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\animatecss\animate.css" Target="App\vendor\animatecss\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.css" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.css.map" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.min.css" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.css" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.css.map" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.min.css" Target="App\vendor\bootstrap\bootstrap-3.1.1\css\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.eot" Target="App\vendor\bootstrap\bootstrap-3.1.1\fonts\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.svg" Target="App\vendor\bootstrap\bootstrap-3.1.1\fonts\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.ttf" Target="App\vendor\bootstrap\bootstrap-3.1.1\fonts\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.woff" Target="App\vendor\bootstrap\bootstrap-3.1.1\fonts\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\js\bootstrap.js" Target="App\vendor\bootstrap\bootstrap-3.1.1\js\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.1.1\js\bootstrap.min.js" Target="App\vendor\bootstrap\bootstrap-3.1.1\js\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\breeze\breeze-1.4.13\breeze.base.debug.js" Target="App\vendor\breeze\breeze-1.4.13\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\breeze\breeze-1.4.13\breeze.base.min.js" Target="App\vendor\breeze\breeze-1.4.13\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\breeze\breeze-1.4.13\breeze.debug.js" Target="App\vendor\breeze\breeze-1.4.13\" Type="ElementFile" />
@@ -76,5 +64,17 @@
     <ProjectItemFile Source="vendor\breeze\breeze-1.4.13\Metadata\metadata.example.js" Target="App\vendor\breeze\breeze-1.4.13\Metadata\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\breeze\breeze-1.4.13\Metadata\metadata.schema.js" Target="App\vendor\breeze\breeze-1.4.13\Metadata\" Type="ElementFile" />
     <ProjectItemFile Source="index.html" Target="App\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.css" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.css.map" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.min.css" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.css" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.css.map" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.min.css" Target="App\vendor\bootstrap\bootstrap-3.2.0\css\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.eot" Target="App\vendor\bootstrap\bootstrap-3.2.0\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.svg" Target="App\vendor\bootstrap\bootstrap-3.2.0\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.ttf" Target="App\vendor\bootstrap\bootstrap-3.2.0\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.woff" Target="App\vendor\bootstrap\bootstrap-3.2.0\fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.js" Target="App\vendor\bootstrap\bootstrap-3.2.0\js\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.min.js" Target="App\vendor\bootstrap\bootstrap-3.2.0\js\" Type="ElementFile" />
   </Files>
 </ProjectItem>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="SampleList" OnQuickLaunch="TRUE" TemplateType="100" Url="Lists/SampleList" Description="My List Instance">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Giraffes</Field>
+          <Field Name="Height">16-20 Feet</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Elephants</Field>
+          <Field Name="Height">7.3 Feet</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Meerkat</Field>
+          <Field Name="Height">12 Inches</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

@@ -42,18 +42,6 @@
     <File Path="App\vendor\angular\angular-1.3.0-beta.13\angular.min.js.map" Url="App/vendor/angular/angular-1.3.0-beta.13/angular.min.js.map" ReplaceContent="TRUE" />
     <File Path="App\vendor\angular\angular-1.3.0-beta.13\version.txt" Url="App/vendor/angular/angular-1.3.0-beta.13/version.txt" ReplaceContent="TRUE" />
     <File Path="App\vendor\animatecss\animate.css" Url="App/vendor/animatecss/animate.css" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.css" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap-theme.css" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.css.map" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap-theme.css.map" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap-theme.min.css" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap-theme.min.css" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.css" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap.css" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.css.map" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap.css.map" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\css\bootstrap.min.css" Url="App/vendor/bootstrap/bootstrap-3.1.1/css/bootstrap.min.css" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.eot" Url="App/vendor/bootstrap/bootstrap-3.1.1/fonts/glyphicons-halflings-regular.eot" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.svg" Url="App/vendor/bootstrap/bootstrap-3.1.1/fonts/glyphicons-halflings-regular.svg" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.ttf" Url="App/vendor/bootstrap/bootstrap-3.1.1/fonts/glyphicons-halflings-regular.ttf" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.woff" Url="App/vendor/bootstrap/bootstrap-3.1.1/fonts/glyphicons-halflings-regular.woff" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\js\bootstrap.js" Url="App/vendor/bootstrap/bootstrap-3.1.1/js/bootstrap.js" ReplaceContent="TRUE" />
-    <File Path="App\vendor\bootstrap\bootstrap-3.1.1\js\bootstrap.min.js" Url="App/vendor/bootstrap/bootstrap-3.1.1/js/bootstrap.min.js" ReplaceContent="TRUE" />
     <File Path="App\vendor\breeze\breeze-1.4.13\breeze.base.debug.js" Url="App/vendor/breeze/breeze-1.4.13/breeze.base.debug.js" ReplaceContent="TRUE" />
     <File Path="App\vendor\breeze\breeze-1.4.13\breeze.base.min.js" Url="App/vendor/breeze/breeze-1.4.13/breeze.base.min.js" ReplaceContent="TRUE" />
     <File Path="App\vendor\breeze\breeze-1.4.13\breeze.debug.js" Url="App/vendor/breeze/breeze-1.4.13/breeze.debug.js" ReplaceContent="TRUE" />
@@ -75,5 +63,17 @@
     <File Path="App\vendor\breeze\breeze-1.4.13\Metadata\metadata.example.js" Url="App/vendor/breeze/breeze-1.4.13/Metadata/metadata.example.js" ReplaceContent="TRUE" />
     <File Path="App\vendor\breeze\breeze-1.4.13\Metadata\metadata.schema.js" Url="App/vendor/breeze/breeze-1.4.13/Metadata/metadata.schema.js" ReplaceContent="TRUE" />
     <File Path="App\index.html" Url="App/index.html" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.css" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap-theme.css" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.css.map" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap-theme.css.map" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap-theme.min.css" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap-theme.min.css" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.css" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.css.map" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap.css.map" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\css\bootstrap.min.css" Url="App/vendor/bootstrap/bootstrap-3.2.0/css/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.eot" Url="App/vendor/bootstrap/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.eot" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.svg" Url="App/vendor/bootstrap/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.svg" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.ttf" Url="App/vendor/bootstrap/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.ttf" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.woff" Url="App/vendor/bootstrap/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.woff" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.js" Url="App/vendor/bootstrap/bootstrap-3.2.0/js/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="App\vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.min.js" Url="App/vendor/bootstrap/bootstrap-3.2.0/js/bootstrap.min.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
