@@ -5,6 +5,8 @@ angular.module('myApp', [
     // Angular Core Modules
     'ngRoute',
     'ngAnimate',
+    'ngResource',
+    'ngCookies',
 
     // Custom Modules
     'myApp.filters',
