@@ -130,8 +130,6 @@
     <Content Include="App\vendor\breeze\breeze-1.4.13\Metadata\metadata.schema.js" />
     <Content Include="App\vendor\breeze\breeze-1.4.13\q.js" />
     <Content Include="App\vendor\breeze\breeze-1.4.13\q.min.js" />
-    <Content Include="App\vendor\breeze\breeze.angular.js" />
-    <Content Include="App\vendor\breeze\breeze.directives.validation.js" />
     <Content Include="SP\Lists\SampleList\Elements.xml" />
     <Content Include="SP\Lists\SampleList\SampleListInstance\Elements.xml" />
     <Content Include="SP\Lists\SampleList\Schema.xml" />

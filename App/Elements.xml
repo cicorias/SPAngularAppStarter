@@ -75,7 +75,5 @@
     <File Path="App\vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.woff" Url="App/vendor/bootstrap/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.woff" ReplaceContent="TRUE" />
     <File Path="App\vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.js" Url="App/vendor/bootstrap/bootstrap-3.2.0/js/bootstrap.js" ReplaceContent="TRUE" />
     <File Path="App\vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.min.js" Url="App/vendor/bootstrap/bootstrap-3.2.0/js/bootstrap.min.js" ReplaceContent="TRUE" />
-    <File Path="App\vendor\breeze\breeze.directives.validation.js" Url="App/vendor/breeze/breeze.directives.validation.js" ReplaceContent="TRUE" />
-    <File Path="App\vendor\breeze\breeze.angular.js" Url="App/vendor/breeze/breeze.angular.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>

@@ -7,7 +7,7 @@
      SharePointMinVersion="16.0.0.0"
 >
   <Properties>
-    <Title>YammerJammer</Title>
+    <Title>SPAngularAppStarter</Title>
     <StartPage>~appWebUrl/App/index.html?{StandardTokens}</StartPage>
   </Properties>
 

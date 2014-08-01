@@ -76,7 +76,5 @@
     <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\fonts\glyphicons-halflings-regular.woff" Target="App\vendor\bootstrap\bootstrap-3.2.0\fonts\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.js" Target="App\vendor\bootstrap\bootstrap-3.2.0\js\" Type="ElementFile" />
     <ProjectItemFile Source="vendor\bootstrap\bootstrap-3.2.0\js\bootstrap.min.js" Target="App\vendor\bootstrap\bootstrap-3.2.0\js\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\breeze\breeze.directives.validation.js" Target="App\vendor\breeze\" Type="ElementFile" />
-    <ProjectItemFile Source="vendor\breeze\breeze.angular.js" Target="App\vendor\breeze\" Type="ElementFile" />
   </Files>
 </ProjectItem>
